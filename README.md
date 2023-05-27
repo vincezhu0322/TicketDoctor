@@ -1,2 +1,2 @@
 # TicketDoctor
-Event Search Application utilizing TicketMaster and GoogleMap APIs, written in Python, Angular, TypeScript and Java
+An Event Search App utilizing TicketMaster and GoogleMap APIs, written in Python, Angular, TypeScript and Java.
