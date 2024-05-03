@@ -2,7 +2,6 @@
 An Event Search App utilizing Ticketmaster, Spotify and GoogleMap APIs, written in Python, Angular, TypeScript and Java. Available on desktop and mobile(Android App).
 
 ## Description
-Link: [Use TicketDoctor](http://ticketdoctor-backend.us-west-1.elasticbeanstalk.com)<br>
 Demo: [Watch Web version](https://www.youtube.com/watch?v=8FV4jEmK1T0)<br>
 Android: [Watch Android version](https://www.youtube.com/watch?v=jKw4w-zuYiA)<br>
 Backend API example: [Sample API: Event Detail](http://ticketdoctor-backend.us-west-1.elasticbeanstalk.com/detail?id=G5eYZ98HC6ZST)
